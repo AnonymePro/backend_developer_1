@@ -8,6 +8,17 @@ mitigation [10].
 **First few seconds — required by the brief:** title card with the
 assignment title, student IDs/names, and each member's contribution %.
 
+```
+Investigation of File Upload Vulnerabilities in Web Applications
+and Their Mitigation
+Group N
+2413961  Madarbocus Diya Sharfa   — 25%
+2410620  Ebrahim Saib Naeeha      — 25%
+2414094  Taygally Faatima         — 25%
+2414406  Mooken Deha              — 25%
+```
+(adjust the % to match each member's actual contribution before recording)
+
 ---
 
 ### 0:00–0:30 — Title & scenario (criterion a, part 1)

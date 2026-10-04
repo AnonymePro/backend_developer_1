@@ -3,13 +3,16 @@
 DGT3098Y: Applied Cybersecurity — University of Mauritius
 Assignment [30 Marks] — video presentation support report
 
-> Fill in before submission: group member IDs, names, and individual
-> contribution percentages (required by the assignment brief — without
-> this everyone in the group gets the same mark).
+> Contribution % below is an equal-split placeholder — adjust per
+> member's actual work before submission (required by the assignment
+> brief — without this everyone in the group gets the same mark).
 
 | ID | Name | Contribution % |
 |----|------|-----------------|
-|    |      |                 |
+| 2413961 | Madarbocus Diya Sharfa | 25 |
+| 2410620 | Ebrahim Saib Naeeha | 25 |
+| 2414094 | Taygally Faatima | 25 |
+| 2414406 | Mooken Deha | 25 |
 
 ---
 
