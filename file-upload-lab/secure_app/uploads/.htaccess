@@ -1,0 +1,9 @@
+# Defence-in-depth for Apache-class deployments (not used by the PHP
+# built-in dev server, which is why upload.php ALSO forces a safe,
+# server-chosen extension and re-encodes every image).
+php_flag engine off
+<FilesMatch "\.(php|php\d|phtml|pht|phar|cgi|pl|py|sh|asp|aspx|jsp)$">
+    Require all denied
+</FilesMatch>
+Options -ExecCGI
+AddHandler cgi-script .php .php3 .php4 .php5 .phtml .pht

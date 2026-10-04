@@ -1,0 +1,5 @@
+vulnerable_app/uploads/*
+!vulnerable_app/uploads/.gitkeep
+secure_app/uploads/*
+!secure_app/uploads/.gitkeep
+!secure_app/uploads/.htaccess
